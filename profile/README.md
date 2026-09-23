@@ -2,7 +2,7 @@
 
 ## A passionate .Net Developer
 
-[![Website](https://img.shields.io/badge/Website-blazorserver.com-512BD4?style=flat-square&logo=blazor)](https://www.yugenapps.com/)
+[![Website](https://img.shields.io/badge/Website-yugenapps.com-512BD4?style=flat-square&logo=blazor)](https://www.yugenapps.com/)
 
 ### My main repositories have been moved here:
 
