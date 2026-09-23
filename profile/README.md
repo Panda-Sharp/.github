@@ -30,8 +30,11 @@
 
 ### Stats
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Panda-Sharp)](https://github.com/Panda-Sharp)
+![github stats](https://github-stats-extended.vercel.app/api?username=Panda-Sharp&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true)
+
+
 
 <!--
+[![github stats](https://github-readme-stats.vercel.app/api?username=Panda-Sharp)](https://github.com/Panda-Sharp)
 [![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Panda-Sharp)](https://github.com/Panda-Sharp)
 -->
