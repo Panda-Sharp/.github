@@ -1,19 +1,20 @@
-# Hi 👋 I'm Panda-Sharp 🐼 A passionate .Net Developer
+# Hi 👋 I'm Panda-Sharp 🐼 
+## A passionate .Net Developer
 
-## My main repositories have been moved here:
+### My main repositories have been moved here:
 [Yugen-Apps](https://github.com/orgs/Yugen-Apps/)
 
-## Connect with me:
+### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/emilianomagliocca/)
 - [Twitter](https://twitter.com/PandaSharp_)
 
-## My walkthroughs
+### My walkthroughs
 - [CI/CD UWP: Build, Sign with certificate, Release to App Center and Store with Azure Pipelines](https://yugen-apps.github.io/yugen-toolkit-docs//articles/walkthroughs/uwp-azure-pipeline.html)
 - [CI/CD Publish DocFx to Github Pages with GitHub Actions](https://yugen-apps.github.io/yugen-toolkit-docs//articles/walkthroughs/docfx-github-actions.html)
 - [CI/CD Build Nuget Packages and Publish to GitHub Packages with GitHub Actions](https://yugen-apps.github.io/yugen-toolkit-docs//articles/walkthroughs/nuget-github-actions.html)
 - [Getting Started with DocFX, .Net Solution, Powershell and Github Pages](https://yugen-apps.github.io/yugen-toolkit-docs//articles/walkthroughs/docfx.html)
 
-## Technology Stack
+### Technology Stack
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -27,7 +28,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## Stats
+### Stats
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Panda-Sharp)](https://github.com/Panda-Sharp)
 
