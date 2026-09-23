@@ -7,12 +7,12 @@
 
 ### My main repositories have been moved here:
 
-[![GitHub Yugen-App](https://img.shields.io/badge/github-YugenApps-blue?logo=github)](https://github.com/Yugen-Apps/)
+[![GitHub Yugen-App](https://img.shields.io/badge/github-Yugen--Apps-blue?logo=github)](https://github.com/Yugen-Apps/)
 
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PandaSharp_-blue)](https://www.linkedin.com/in/emilianomagliocca/)
-[![X](https://img.shields.io/badge/X-PandaSharp_-blue)](https://x.com/PandaSharp_)
+[![X](https://img.shields.io/badge/X-PandaSharp__-blue)](https://x.com/PandaSharp_)
 
 ### My walkthroughs
 
