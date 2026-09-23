@@ -3,15 +3,16 @@
 ## A passionate .Net Developer
 
 [![Website](https://img.shields.io/badge/Website-yugenapps.com-512BD4?style=flat-square&logo=blazor)](https://www.yugenapps.com/)
+[![GitHub](https://img.shields.io/github/followers/Panda-Sharp?label=Follow&style=flat-square&logo=github)](https://github.com/Panda-Sharp/)
 
 ### My main repositories have been moved here:
 
-[Yugen-Apps](https://github.com/orgs/Yugen-Apps/)
+[![GitHub Yugen-App](https://img.shields.io/badge/github-YugenApps-blue?logo=github)](https://github.com/Yugen-Apps/)
 
 ### Connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/emilianomagliocca/)
-- [Twitter](https://twitter.com/PandaSharp_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PandaSharp_-blue)](https://www.linkedin.com/in/emilianomagliocca/)
+[![X](https://img.shields.io/badge/X-PandaSharp_-blue)](https://x.com/PandaSharp_)
 
 ### My walkthroughs
 
