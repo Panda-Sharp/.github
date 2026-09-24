@@ -1,13 +1,24 @@
-# Hi 👋 I'm Panda-Sharp 🐼 
+## Hi 👋 I'm Panda-Sharp 🐼 
 
-## A passionate .Net Developer
+### A passionate .Net Developer
 
 [![Website](https://img.shields.io/badge/Website-yugenapps.com-512BD4?style=flat-square&logo=blazor)](https://www.yugenapps.com/)
 [![GitHub](https://img.shields.io/github/followers/Panda-Sharp?label=Follow&style=flat-square&logo=github)](https://github.com/Panda-Sharp/)
 
+### About Me
+
+Senior .NET developer with 14 years on the Microsoft stack (20 in software), combining Windows desktop development (WPF, UWP, WinUI) with Azure, DevOps, and CI/CD. 
+
 ### My main repositories have been moved here:
 
 [![GitHub Yugen-App](https://img.shields.io/badge/github-Yugen--Apps-blue?logo=github)](https://github.com/Yugen-Apps/)
+
+### Featured Projects
+
+- [Yugen Toolkit](https://github.com/yugen-apps/yugen-toolkit): open-source library of UWP and .NET Standard controls, MVVM, audio, and data helpers, published as 9 NuGet packages with 175K+ downloads, each built and released by its own GitHub Actions pipeline.
+- [Yugen Mosaic](https://github.com/yugen-apps/yugen-mosaic): free and open-source UWP app on the Microsoft Store photo mosaic creator. Yugen Mosaic was featured in the UWP Community Launch 2020 (Windows Central, Neowin, Medium, WinUI Community Call).
+- [Yugen DJ](https://github.com/yugen-apps/yugen-dj): free and open-source UWP app on the Microsoft Store DJ app driving two sound cards via BASS and NAudio. 
+- [Yugen Home Budget](https://github.com/yugen-apps/yugen-home-budget): open-source Blazor budgeting app deployed with GitHub Actions to Azure App Service and Azure SQL using managed identity.
 
 ### Connect with me:
 
